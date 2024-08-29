@@ -15,8 +15,7 @@ public class TesteArrayList {
 	}
 	
 	static double real(String j) {
-		return Double.parseDouble(JOptionPane.showInputDialog(j)
-				);
+		return Double.parseDouble(JOptionPane.showInputDialog(j));
 	}
 	
 	public static void main(String[] args) {
